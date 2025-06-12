@@ -1,1 +1,96 @@
-# PavanKumarP
+<img align="right" src="https://komarev.com/ghpvc/?username=PavanKumarP&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="PavanKumarP" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Hello+World!;I'm+Pavan+Kumar+P;Full+Stack+Alchemist;Cloud+Native+Developer;AI%2FML+Explorer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">⚡ Transforming Ideas into Scalable Digital Experiences ⚡</h3>
+
+<br/>
+
+<div align="center">
+  
+  🚀 **Currently Building** Quantum-Resistant Systems  
+  🌌 **Learning** Web3 | Blockchain | Quantum Computing  
+  ⚗️ **Experimenting With** Generative AI | Neural Networks  
+  🛸 **Fun Fact** The Apollo 11 code had less lines than modern apps  
+
+</div>
+
+<br/>
+
+<div align="center"> 
+  <a href="mailto:your-email@domain.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pavankumarp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pavankumarp.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/pavankumarp/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  
+### **Core Arsenal**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### **Frontend Nebula**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### **Backend Galaxy**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Quantum Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### **Cloud Constellation**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<div align="center">
+  
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarP&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PavanKumarP&theme=vision-friendly-dark)
+
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🚀 Latest Projects</h2>
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Quantum-Computing-Playground&theme=vision-friendly-dark)](https://github.com/PavanKumarP/Quantum-Computing-Playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Neural-Architect&theme=vision-friendly-dark)](https://github.com/PavanKumarP/Neural-Architect)
+
+</div>
