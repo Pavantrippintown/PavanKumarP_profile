@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/pavan-kumar-p-741041169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pavankumarp.vercel.app" target="_blank">
+  <a href="https://[pavankumarp.vercel.app](https://professional-portfolio-virid-tau.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/pavankumarp/" target="_blank">
