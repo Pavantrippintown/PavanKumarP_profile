@@ -20,10 +20,10 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:your-email@domain.com">
+  <a href="mailto:pavan.trippintown@gmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/pavankumarp" target="_blank">
+  <a href="https://linkedin.com/in/pavan-kumar-p-741041169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://pavankumarp.vercel.app" target="_blank">
