@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=PavanKumarP&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="PavanKumarP" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Pavan Kumar P&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Pavan Kumar P" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Hello+World!;I'm+Pavan+Kumar+P;Full+Stack+Alchemist;Cloud+Native+Developer;AI%2FML+Explorer" alt="Typing SVG" />
