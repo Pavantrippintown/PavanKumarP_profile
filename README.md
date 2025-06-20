@@ -86,7 +86,7 @@
 
 <div align="center">
   
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true)
+![Pavan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true](https://github.com/Pavantrippintown))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarP&layout=compact&theme=vision-friendly-dark)
 
