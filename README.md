@@ -1,19 +1,19 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=PavanKumarP&label=PROFILE+VIEWS&color=00F72E&style=flat" alt="PavanKumarP" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Hello+World!;I'm+Pavan+Kumar+P;Quantum+Software+Engineer;Cloud+Native+Architect;AI%2FML+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Hello+World!;I'm+Pavan+Kumar+P;Full+Stack+Alchemist;Cloud+Native+Developer;AI%2FML+Explorer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">⚡ Building the Future with Quantum-Classical Hybrid Systems ⚡</h3>
+<h3 align="center">⚡ Transforming Ideas into Scalable Digital Experiences ⚡</h3>
 
 <br/>
 
 <div align="center">
   
-  🚀 **Deploying** Next-Gen Web3 Applications on Vercel Edge  
-  🌌 **Developing** Quantum-Resistant Cryptography  
-  ⚗️ **Researching** Neuromorphic Computing Architectures  
-  🛸 **Fun Fact** My Vercel deployments outnumber my coffee cups  
+  🚀 **Currently Building** Quantum-Resistant Systems  
+  🌌 **Learning** Web3 | Blockchain | Quantum Computing  
+  ⚗️ **Experimenting With** Generative AI | Neural Networks  
+  🛸 **Fun Fact** The Apollo 11 code had less lines than modern apps  
 
 </div>
 
@@ -26,82 +26,82 @@
   <a href="https://linkedin.com/in/pavan-kumar-p-741041169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vercel.com/pavantrippintown" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://professional-portfolio-virid-tau.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🚀 Vercel Showcase</h2>
-
-<div align="center">
-
-[![Edge API Gateway](https://img.shields.io/badge/Vercel-Quantum_API_Gateway-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://quantum-api-gateway.vercel.app)
-[![Neural Playground](https://img.shields.io/badge/Vercel-Neural_Playground-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neural-playground.vercel.app)
-[![Web3 Dashboard](https://img.shields.io/badge/Vercel-Web3_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://web3-dashboard.vercel.app)
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🛠️ Quantum Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   
-### **Core Quantum**
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-291B3E?style=for-the-badge)
+### **Core Arsenal**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### **Vercel Edge**
-![Next.js](https://img.shields.io/badge/Next.js-13-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Edge Functions](https://img.shields.io/badge/Vercel-Edge_Functions-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+### **Frontend Nebula**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-### **Quantum Cloud**
-![AWS Braket](https://img.shields.io/badge/AWS_Braket-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Quantum](https://img.shields.io/badge/Azure_Quantum-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### **Backend Galaxy**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **DevOps Cosmos**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### **Quantum Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### **Cloud Constellation**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### **Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">📊 GitHub Quantum Metrics</h2>
+<h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
   
-![Quantum GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=dark&bg_color=0d1117&title_color=00F72E&icon_color=00F72E&include_all_commits=true)
+![Pavan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true](https://github.com/Pavantrippintown))
 
-![Quantum Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarP&layout=compact&theme=dark&bg_color=0d1117&title_color=00F72E)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarP&layout=compact&theme=vision-friendly-dark)
 
-![Quantum Streak](https://streak-stats.demolab.com?user=PavanKumarP&theme=dark&background=0d1117&fire=00F72E&ring=00F72E)
+![GitHub Streak](https://streak-stats.demolab.com?user=PavanKumarP&theme=vision-friendly-dark)
 
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🌌 Featured Quantum Projects</h2>
+<h2 align="center">🚀 Latest Projects</h2>
 
 <div align="center">
   
-[![Quantum Playground](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Quantum-Computing-Playground&theme=dark&bg_color=0d1117&title_color=00F72E)](https://github.com/PavanKumarP/Quantum-Computing-Playground)
-[![Vercel Quantum](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Vercel-Quantum-Edge&theme=dark&bg_color=0d1117&title_color=00F72E)](https://github.com/PavanKumarP/Vercel-Quantum-Edge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Quantum-Computing-Playground&theme=vision-friendly-dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Neural-Architect&theme=vision-friendly-dark)](https://github.com/PavanKumarP/Neural-Architect)
 
 </div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🔮 Quantum Roadmap</h2>
-
-```mermaid
-graph TD
-    A[Vercel Quantum Edge] --> B[Hybrid Quantum-Classical Apps]
-    B --> C[Quantum Machine Learning]
-    C --> D[Post-Quantum Cryptography]
-    D --> E[Fault-Tolerant Quantum Computing]
