@@ -101,7 +101,7 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Quantum-Computing-Playground&theme=vision-friendly-dark)](https://github.com/PavanKumarP/Quantum-Computing-Playground)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Quantum-Computing-Playground&theme=vision-friendly-dark)](https://github.com/PavanKumarP/Quantum-Computing-Playground](https://github.com/Pavantrippintown/Employee_DBMS.git))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Neural-Architect&theme=vision-friendly-dark)](https://github.com/PavanKumarP/Neural-Architect)
 
 </div>
