@@ -59,22 +59,12 @@
 
 <br/>
 <hr/>
-
-<h2 align="center">🏗️ Salesforce Projects</h2>
-
-<div align="center">
-
-[![LWC Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=Salesforce-LWC-Components&theme=dark&show_owner=true)](https://github.com/PavanKumarP/Salesforce-LWC-Components)
-[![Integration Framework](https://github-readme-stats.vercel.app/api/pin/?username=PavanKumarP&repo=MuleSoft-Salesforce-Integration&theme=dark&show_owner=true)](https://github.com/PavanKumarP/MuleSoft-Salesforce-Integration)
-
-</div>
-
 <br/>
 
 <div align="center">
   
 ⚡ **Recent Achievements**  
-• Developed custom Lightning Web Components for enterprise clients  
+• Developed custom Lightning Web Components for enterprise clients      
 • Implemented CI/CD pipelines using Salesforce DX and GitHub Actions  
 • Architected complex CPQ solutions with advanced pricing rules  
 • Integrated Salesforce with external systems using MuleSoft  
