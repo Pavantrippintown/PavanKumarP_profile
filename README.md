@@ -1,67 +1,103 @@
-👋 Hello, I'm Pavan Kumar P - Salesforce & DevOps Engineer
+---
+description: Futuristic DevOps & Salesforce Engineer | CI/CD Specialist | AWS & Docker Expert
+---
 
-📍 Bangalore, India | 📧 pavan.trippintown@gmail.com | 📱 +91 8660098566
+<div align="center">
 
-## 👨‍💻 About Me
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=650&lines=Hello+World+%F0%9F%91%8B+I'm+Pavan+Kumar+P;Salesforce+%26+DevOps+Engineer;CI%2FCD+Architect+%7C+AWS+Specialist;Transforming+Code+into+Cloud+Solutions" alt="Typing SVG" />
+</h1>
 
-Hands-on DevOps engineer passionate about building CI/CD pipelines and containerized solutions. Currently completing the IBM DevOps Professional Certification while applying self-taught skills in Docker, AWS, and OpenShift to real projects. Bridging development and operations for scalable Salesforce solutions.
+<!-- Profile Views -->
+<img align="right" src="https://komarev.com/ghpvc/?username=PavanKumarP&label=Profile+Views&color=00F72E&style=for-the-badge" alt="PavanKumarP" />
 
-🔗 **Portfolio**: [professional-portfolio-virid-tau.vercel.app](https://professional-portfolio-virid-tau.vercel.app/)
-🔗 **LinkedIn**: [linkedin.com/in/pavan-kumar-p-741041169](https://linkedin.com/in/pavan-kumar-p-741041169)
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:pavan.trippintown@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pavan.trippintown@gmail.com" />
+  </a>
+  <a href="https://linkedin.com/in/pavan-kumar-p-741041169" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://professional-portfolio-virid-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://trailblazer.me/id/pavankumar" target="_blank">
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
+</div>
 
-## 🛠️ Technical Skills
+<br/>
 
-**Programming & Scripting:** Python, Java, SQL, Shell Scripting, Apex, JavaScript  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda), CI/CD (Jenkins, GitHub Actions), Docker, Terraform, OpenShift  
-**Salesforce:** Apex, LWC, Triggers, SOQL, Salesforce DX, Metadata API  
-**Databases:** MySQL, PostgreSQL (Query Optimization, CRUD)  
-**Tools & Methodologies:** Git, Agile, NLP, Multithreading, Copado, SonarQube
+<!-- Futuristic Banner -->
+<img src="https://github.com/PavanKumarP/PavanKumarP/blob/main/assets/futuristic-banner.png?raw=true" alt="Futuristic DevOps Banner" width="100%"/>
 
-## 🎓 Education & Certifications
+</div>
 
-- **B.E** - R. L. Jallappa Institute of Technology, Bangalore (Doddaballapur)
-- **IBM DevOps and Software Engineering Professional Certification** (Expected Completion: Oct 2025)
-- **IBM Continuous Integration and Continuous Delivery (CI/CD)** - Coursera
+<br/>
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack & Tools
 
-### 🤖 AI DevOps Intern | Rooman Technologies | Sep 2024 - Mar 2025
-- Automated deployment pipelines using Jenkins, reducing manual errors by 25%
-- Containerized 3+ AI models using Docker for consistent environments
-- Collaborated with cross-functional teams in Agile sprints
+<div align="center">
 
-## 🚀 Featured Projects
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 CI/CD Pipeline for Linting and Unit Testing
-- Created pipeline in GitHub Actions with steps for linting and unit testing
-- Used Tekton to create tasks for linting, unit testing, and building images
-- Implemented OpenShift CI Pipeline deploying to OpenShift cluster
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🖱️ Virtual Mouse with AI
-- Optimized real-time gesture recognition by 30% using multithreading
-- Developed Python application using OpenCV and MediaPipe for gesture recognition
-- Integrated NLP for voice commands (95% accuracy)
+### **Salesforce Ecosystem**
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### 💼 Employee Database Management System
-- Designed PHP/MySQL system handling 10,000+ records
-- Improved query performance by 30% through optimization
-- Implemented data validation and CSV export features
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📈 GitHub Stats
+</div>
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarP&layout=compact&theme=radical)
+<br/>
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
-- **Letter of Appreciation** (Apr 2023) - Recognized by Management and Faculty for outstanding contributions to college cultural committee
-- Reduced deployment times by 70% through optimized CI/CD pipelines
-- Automated testing coverage from 40% to 85% across projects
+<div align="center">
 
-## 📫 Let's Connect
+<!-- GitHub Stats -->
+<a href="https://github.com/PavanKumarP">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PavanKumarP&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_color=00F72E&bg_color=0D1117&title_color=00F72E&text_color=FFFFFF&icon_color=00F72E" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarP&layout=compact&theme=radical&border_color=00F72E&bg_color=0D1117&title_color=00F72E&text_color=FFFFFF&icon_color=00F72E" />
+</a>
 
-- 📧 Email: pavan.trippintown@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/pavan-kumar-p-741041169](https://linkedin.com/in/pavan-kumar-p-741041169)
-- 🌐 Portfolio: [professional-portfolio-virid-tau.vercel.app](https://professional-portfolio-virid-tau.vercel.app/)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=PavanKumarP&theme=radical&border=00F72E&background=0D1117&ring=00F72E&fire=00F72E&currStreakNum=FFFFFF&sideNums=00F72E&currStreakLabel=00F72E&sideLabels=00F72E&dates=FFFFFF)](https://git.io/streak-stats)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=PavanKumarP&label=PROFILE+VIEWS&color=00F72E&style=flat" alt="PavanKumarP" />
+</div>
+
+<br/>
+
+## 🚀 DevOps Pipeline
+
+```mermaid
+graph LR
+A[Code Commit] --> B[Linting & Static Analysis]
+B --> C[Unit Testing]
+C --> D[Build & Containerize]
+D --> E[Security Scan]
+E --> F[Deploy to Staging]
+F --> G[Integration Testing]
+G --> H[Deploy to Production]
+H --> I[Monitoring & Logging]
