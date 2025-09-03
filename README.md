@@ -1,7 +1,3 @@
----
-description: Futuristic DevOps & Salesforce Engineer | CI/CD Specialist | AWS & Docker Expert
----
-
 <div align="center">
 
 <!-- Animated Header -->
