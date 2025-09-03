@@ -26,9 +26,6 @@
 
 <br/>
 
-<!-- Futuristic Banner -->
-<img src="https://github.com/PavanKumarP/PavanKumarP/blob/main/assets/futuristic-banner.png?raw=true" alt="Futuristic DevOps Banner" width="100%"/>
-
 </div>
 
 <br/>
